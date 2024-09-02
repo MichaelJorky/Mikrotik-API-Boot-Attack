@@ -52,6 +52,8 @@ python MikrotikBot.py -t 10.10.10.1 -u admin -p 80 -d password.txt -s 3 -a save.
    -t 10.10.10.1: ganti dengan target ip address tujuan misalkan 192.168.1.1
 
    -u admin: anda bisa mengganti target username "admin" dengan misal: root, superadmin, user, support, public, debug, tech, administrator, sysadm, manager, apc, device, superuser, customer, operator, cusadmin, guest, useradmin dll
+
+   -p 80: anda bisa mengganti port "80" dengan port lainnya, port umum pada mikrotik: 21 (ftp), 22 (ssh), 23 (telnet), 80 (http), 443 (ssl), 8291 (winbox), 8728 (api), 8729 (api ssl). port umum lainnya yang mungkin anda butuhkan: 25 (smtp), 53 (dns), 110 (pop3), 115 (sftp), 135 (rpc), 139 (netbios), 143 (imap), 194 (irc), 445 (smb), 1433 (mssql), 3306 (mysql), 3389 (rdp), 5632 (pcanywhere), 5900 (vnc), 25565 (minecraft).
    
    -d password.txt: Anda bisa menambahkan atau mengurangi jumlah daftar password pada password.txt
    
