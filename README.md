@@ -50,10 +50,12 @@ python MikrotikBot.py -t 10.10.10.1 -u admin -p 80 -d password.txt -s 3 -a save.
 <b>[ Penjelasan Lengkap Kode pada MikrotikBot ]</b>
 
    -t 10.10.10.1: ganti dengan target ip address tujuan misalkan 192.168.1.1
+
+   -u admin: anda bisa mengganti target username "admin" dengan misal: root, superadmin, user, support, public, debug, tech, administrator, sysadm, manager, apc, device, superuser, customer, operator, cusadmin, guest, useradmin dll
    
    -d password.txt: Anda bisa menambahkan atau mengurangi jumlah daftar password pada password.txt
    
-   -s 3: anda bisa mengganti delay 3 detik menjadi misal -s 2 (2 detik), -s 4 (4 detik)
+   -s 3: anda bisa mengganti delay 3 detik menjadi misal -s 2 (2 detik), -s 4 (4 detik), default 1 detik
    
    -a save.json: secara otomatis menyimpan kemajuan saat ini ke file, dan membacanya kembali saat startup
    
