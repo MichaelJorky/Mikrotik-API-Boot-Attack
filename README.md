@@ -12,7 +12,7 @@ https://www.python.org/downloads/
 2. Download dan instal git:
 https://git-scm.com/downloads
 
-3. Jalankan CMD (Command Prompt)/Termux
+3. Jalankan CMD (Command Prompt) git/Termux
    ```git clone https://github.com/MichaelJorky/Mikrotik-API-Boot-Attack.git .MikrotikBot```
 
 4. Instal Colorama:
