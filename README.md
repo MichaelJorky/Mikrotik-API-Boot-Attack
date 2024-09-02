@@ -23,7 +23,7 @@ https://git-scm.com/downloads
 4. Instal Laiarturs Ros API
    ```python -m pip install laiarturs-ros-api``` 
 
-   Dokumnetasi lengkap laiarturs ros api -> https://pypi.org/project/laiarturs-ros-api/
+   Dokumentasi lengkap laiarturs ros api -> https://pypi.org/project/laiarturs-ros-api/
 
 5. Jalankan scrypt python lewat ```cd .MikrotikBot```
 
