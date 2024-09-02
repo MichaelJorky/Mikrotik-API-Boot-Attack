@@ -9,7 +9,7 @@ Tool ini hanya boleh digunakan untuk edukasi saja atau pengujian saja terutama b
 1. Download dan instal python (minimum python 3.x.x):
 https://www.python.org/downloads/
 
-2. Download dan instal Git:
+2. Download dan instal git:
 https://git-scm.com/downloads
 
 3. Jalankan CMD (Command Prompt)/Termux
